@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 23 11:52:08 IST 2024","Tue Jul 23 11:52:14 IST 2024","6549","firefox","NetworkRequestIntercept.spec.js","","","","@network Security test request intercept",""
+"passed","Tue Jul 23 12:26:34 IST 2024","Tue Jul 23 12:26:39 IST 2024","4886","chromium","NetworkRequestIntercept.spec.js","","","","@network Security test request intercept",""
+"passed","Tue Jul 23 11:52:08 IST 2024","Tue Jul 23 11:52:16 IST 2024","7804","webkit","NetworkRequestIntercept.spec.js","","","","@network Security test request intercept",""
